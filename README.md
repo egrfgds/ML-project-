@@ -1,14 +1,8 @@
 <div dir="rtl" align="right">
 
-<h1 align="center">🌌 پروژه پایانی: نجات شرکت کهکشان تجارت</h1>
+<h1 align="center"> پروژه پایانی: نجات شرکت کهکشان تجارت</h1>
 
 <p align="center"><strong>از داده‌های سفارش تا پیش‌بینی سود و اولویت؛ یک پروژه یادگیری ماشین برای تصمیم‌گیری بهتر</strong></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/زبان-فارسی-1f6feb?style=for-the-badge" alt="مستندات فارسی">
-  <img src="https://img.shields.io/badge/حوزه-Machine%20Learning-7c3aed?style=for-the-badge" alt="یادگیری ماشین">
-  <img src="https://img.shields.io/badge/داده-Orders%20%7C%20Customers%20%7C%20Products-0f766e?style=for-the-badge" alt="داده‌های سفارش، مشتری و محصول">
-</p>
 
 <p align="center">
   <em>دو پرسش کسب‌وکاری، دو مسئله‌ی یادگیری ماشین: سود هر سفارش چقدر خواهد بود و اولویت آن چیست؟</em>
